@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Hello I'm <a targer="_blank" href="https://seeren.github.io/cv/www/">Cyril</a></h1>
+    <h1 align="center">Hello I'm <a targer="_blank" href="https://seeren.github.io/cv/www/">Cyril</a>, Web/Mobile Developer</h1>
 </p>
 
 <p align="center">
